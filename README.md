@@ -5,15 +5,15 @@ Welcome to the Resources repository! This repository contains tutorial notebooks
 ## Topics
 
 1. **Intro to Deep Learning: Comparison between Simple Model and CNN Model Architecture**
-   - Notebook: [Basics of Deep Learning Classification](basics-of-deep-learning-classification.ipynb)
+   - Notebook: Basics of Deep Learning Classification
    - Description: This notebook provides an introduction to deep learning and compares the architecture of a simple model with a convolutional neural network (CNN) model.
 
 2. **CNN: Multi-class Classification using CNNs and Explained Architecture**
-   - Notebook: [CNN MultiClass Classification](cnn-for-multiclass-image-classification.ipynb)
+   - Notebook: CNN MultiClass Classification
    - Description: In this notebook, you will learn how to perform multi-class classification using convolutional neural networks (CNNs). The notebook also includes a detailed explanation of the CNN architecture used.
 
 3. **ResNet: Multi-class Classification using ResNet (Pre-trained) and Explained Architecture**
-   - Notebook: [ResNet MultiClass Classification.ipynb](resnet-for-classification.ipynb)
+   - Notebook: ResNet MultiClass Classification
    - Description: This notebook demonstrates multi-class classification using a pre-trained ResNet model. It also provides an explanation of the ResNet architecture used.
 
 4. **Natural Language Processing Basics**
